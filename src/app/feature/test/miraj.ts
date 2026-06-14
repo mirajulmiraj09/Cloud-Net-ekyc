@@ -1,0 +1,1 @@
+console.log("Hello, Miraj! This is a TypeScript file.");
